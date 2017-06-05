@@ -1,0 +1,8 @@
+npm install -g create-react-app
+create-react-app --version
+create-react-app react-chart-demo
+cd react-chart-demo
+npm install --save react-chartjs
+npm install --save chart.js@^1.1.1
+npm install
+npm start
